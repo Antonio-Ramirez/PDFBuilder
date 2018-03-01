@@ -1,0 +1,7 @@
+body {
+	margin-top: 10px;
+}
+
+.errors, #pdfs, #pdfDetails, #fillers {
+	list-style-type: none;
+}
